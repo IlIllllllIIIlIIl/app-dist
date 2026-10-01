@@ -1,0 +1,20 @@
+version: 1.6.170
+files:
+  - url: Fun Web Setup 1.6.170.exe
+    sha512: x+nZWqAhXvTHmsE37Uunbz+ASmXq4sMnVblMofY90JGkw5IVuVK5Kuhl9Z1p9leTtHS4ucv6doRVB/T1GqziKg==
+path: Fun Web Setup 1.6.170.exe
+sha512: x+nZWqAhXvTHmsE37Uunbz+ASmXq4sMnVblMofY90JGkw5IVuVK5Kuhl9Z1p9leTtHS4ucv6doRVB/T1GqziKg==
+packages:
+  ia32:
+    size: 75205805
+    sha512: 95665BRqCK/Aw2TnVsd5tzXPAdP6Mk0khY897hInhdCg61TwYcM3Ni5DoSvX29E5D07eryQBc+OiR9enKaWz2Q==
+    blockMapSize: 80889
+    path: fun-1.6.170-ia32.nsis.7z
+    file: fun-1.6.170-ia32.nsis.7z
+  x64:
+    size: 78024961
+    sha512: wkXXJhMlje+oYrH0jkmfHCEtUaU/AXEJydNmu5t1LbsYa3ZMoOHYWsUB/clqeVP608xQzcUW39eureqOaTBKLA==
+    blockMapSize: 83329
+    path: fun-1.6.170-x64.nsis.7z
+    file: fun-1.6.170-x64.nsis.7z
+releaseDate: '2023-12-09T13:32:13.724Z'

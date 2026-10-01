@@ -1,0 +1,9 @@
+version: 1.6.170
+files:
+  - url: Fun-1.6.170.AppImage
+    sha512: kuJjiW2FRXi58ll657iQaE18ZbAyhB1X6f2ANaD/O+c9Yl16OsUKSghBpk9jprKN6jMAIILRjlcXOYs2CeRYrw==
+    size: 93147242
+    blockMapSize: 98430
+path: Fun-1.6.170.AppImage
+sha512: kuJjiW2FRXi58ll657iQaE18ZbAyhB1X6f2ANaD/O+c9Yl16OsUKSghBpk9jprKN6jMAIILRjlcXOYs2CeRYrw==
+releaseDate: '2023-12-09T13:36:08.406Z'

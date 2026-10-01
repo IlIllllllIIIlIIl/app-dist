@@ -1,0 +1,9 @@
+version: 1.7.177
+files:
+  - url: HuBBa-1.7.177.AppImage
+    sha512: TVP65cwEj8O4baK1v7mxsnDai20ZGPjnTfsclTx5NbYMG3ssmzkZupbGmRvIZ3epSoGptAshW5SXOGbgV/06nw==
+    size: 94828655
+    blockMapSize: 100483
+path: HuBBa-1.7.177.AppImage
+sha512: TVP65cwEj8O4baK1v7mxsnDai20ZGPjnTfsclTx5NbYMG3ssmzkZupbGmRvIZ3epSoGptAshW5SXOGbgV/06nw==
+releaseDate: '2025-02-26T17:26:11.534Z'

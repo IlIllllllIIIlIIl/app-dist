@@ -1,0 +1,20 @@
+version: 1.7.177
+files:
+  - url: HuBBa Web Setup 1.7.177.exe
+    sha512: Fs9efW7pjvlyznTWT2eACIwTiuDnnIRTdHEl9Kb0UYxViUEsOxdrnVYYjgY9FTj6Qa1Y0WD6/V/L1I81PizYEQ==
+path: HuBBa Web Setup 1.7.177.exe
+sha512: Fs9efW7pjvlyznTWT2eACIwTiuDnnIRTdHEl9Kb0UYxViUEsOxdrnVYYjgY9FTj6Qa1Y0WD6/V/L1I81PizYEQ==
+packages:
+  ia32:
+    size: 72596405
+    sha512: fO3eNlQfKzkLnyY/KkwzUrEsqdo9LtOzRNuWNM4z8J1+dklwmde6SYtanRkl4PIs+0d/Zxm8X+9kwiUZ8cgeUQ==
+    blockMapSize: 75440
+    path: hubba-1.7.177-ia32.nsis.7z
+    file: hubba-1.7.177-ia32.nsis.7z
+  x64:
+    size: 75574459
+    sha512: jkNNgqC6dUQSONrRQ59RurbJJ9PC+Fx9zvUZPZPbFOOEv+mNSR2CsGVbc6UgW0EhyetKU8wyMurC6+9apuN8yw==
+    blockMapSize: 79670
+    path: hubba-1.7.177-x64.nsis.7z
+    file: hubba-1.7.177-x64.nsis.7z
+releaseDate: '2025-02-26T17:17:31.859Z'
